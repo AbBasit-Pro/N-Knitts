@@ -1,0 +1,311 @@
+{
+  "settings": {
+    "businessName": "N-Knitts",
+    "tagline": "Handmade with Love, One Stitch at a Time",
+    "email": "ayshanuml26@gmail.com",
+    "phone": "+923335484184",
+    "address": "Toronto, Ontario, Canada",
+    "operatingHours": "Monday – Friday: 10:00 AM – 6:00 PM | Saturday: 10:00 AM – 4:00 PM (By Appointment)",
+    "aboutText": "We are passionate about turning simple yarn into beautiful, handmade creations. Our mission is to create unique, high-quality knitting and crochet pieces with care, creativity, and love. We believe every stitch tells a story, and our goal is to bring warmth, comfort, and joy to every customer through handmade craftsmanship.",
+    "updatedAt": "2026-10-08T17:43:54.293Z"
+  },
+  "socialLinks": [
+    {
+      "id": 1,
+      "platform": "Instagram",
+      "url": "https://instagram.com/craftedcreations",
+      "isEnabled": true
+    },
+    {
+      "id": 2,
+      "platform": "Pinterest",
+      "url": "https://pinterest.com/craftedcreations",
+      "isEnabled": true
+    },
+    {
+      "id": 3,
+      "platform": "LinkedIn",
+      "url": "https://linkedin.com/company/craftedcreations",
+      "isEnabled": true
+    },
+    {
+      "id": 4,
+      "platform": "Facebook",
+      "url": "https://facebook.com/craftedcreations",
+      "isEnabled": true
+    }
+  ],
+  "services": [
+    {
+      "id": 1,
+      "title": "Handmade Clothing",
+      "slug": "handmade-clothing",
+      "description": "Custom-fitted, beautifully styled handmade clothing tailored with premium wool, cotton, and organic yarns for cozy everyday elegance.",
+      "price": "Custom Estimate",
+      "icon": "Shirt",
+      "category": "Clothing",
+      "features": [
+        "Custom body measurements & sizing",
+        "Choice of premium natural yarns & blends",
+        "Hand-stitched detailing & soft seamless finish",
+        "Care instructions & extra matching yarn included"
+      ],
+      "isActive": true,
+      "createdAt": "2026-10-08T17:31:43.272Z"
+    },
+    {
+      "id": 2,
+      "title": "Personalized Gifts",
+      "slug": "personalized-gifts",
+      "description": "Heartwarming bespoke gifts made for birthdays, anniversaries, weddings, and holidays with custom names, initials, and themes.",
+      "price": "Starting at $35",
+      "icon": "Gift",
+      "category": "Gifts",
+      "features": [
+        "Personalized initials or embroidered names",
+        "Custom gift wrapping & note card available",
+        "Special seasonal & milestone themes",
+        "Quick turnaround on select gift items"
+      ],
+      "isActive": true,
+      "createdAt": "2026-10-08T17:31:43.283Z"
+    },
+    {
+      "id": 3,
+      "title": "Baby & Kids Collection",
+      "slug": "baby-kids-collection",
+      "description": "Ultra-soft, gentle, hypoallergenic knitwear designed specifically for babies, toddlers, and growing little ones.",
+      "price": "Starting at $45",
+      "icon": "Baby",
+      "category": "Kids & Baby",
+      "features": [
+        "100% skin-safe, hypoallergenic baby-soft yarn",
+        "Baby booties, beanies, sweaters & heirloom blankets",
+        "Durable, easy-wash materials",
+        "Adorable custom animal & pastel patterns"
+      ],
+      "isActive": true,
+      "createdAt": "2026-10-08T17:31:43.283Z"
+    },
+    {
+      "id": 4,
+      "title": "Matching Family Sets",
+      "slug": "matching-family-sets",
+      "description": "Coordinated handmade beanies, sweaters, and scarves for the entire family — ideal for holiday photo sessions and cozy winter outings.",
+      "price": "Starting at $85",
+      "icon": "Users",
+      "category": "Family Sets",
+      "features": [
+        "Sized for infants, children, teens, and adults",
+        "Unified color palettes and matching stitch motifs",
+        "Durable comfort designed for active family memories",
+        "Custom pet matching bandanas or sweaters upon request"
+      ],
+      "isActive": true,
+      "createdAt": "2026-10-08T17:31:43.283Z"
+    },
+    {
+      "id": 5,
+      "title": "Custom Colors & Designs",
+      "slug": "custom-colors-designs",
+      "description": "Have a specific color scheme, stitch pattern, or Pinterest reference in mind? We bring your one-of-a-kind vision to life.",
+      "price": "Custom Estimate",
+      "icon": "Palette",
+      "category": "Custom Design",
+      "features": [
+        "One-on-one design consultation & palette matching",
+        "Digital swatch & yarn sample approvals",
+        "Complex stitch patterns (cable, lace, colorwork)",
+        "Made to exact size & proportion specifications"
+      ],
+      "isActive": true,
+      "createdAt": "2026-10-08T17:31:43.283Z"
+    },
+    {
+      "id": 6,
+      "title": "Knitting Repairs & Restoration",
+      "slug": "knitting-repairs",
+      "description": "Expert restoration and repair for beloved heirloom knits, snagged garments, unraveling seams, and vintage handmade blankets.",
+      "price": "Starting at $25",
+      "icon": "Scissors",
+      "category": "Repair & Care",
+      "features": [
+        "Precise yarn matching and tension replication",
+        "Moth hole repairs, dropped stitch fixes & re-edging",
+        "Preservation of sentimental heirloom garments",
+        "Gentle steam blocking and conditioning finish"
+      ],
+      "isActive": true,
+      "createdAt": "2026-10-08T17:31:43.283Z"
+    },
+    {
+      "id": 7,
+      "title": "Bulk Orders & Events",
+      "slug": "bulk-orders",
+      "description": "Wholesale packages, corporate gifting, bridal party bundles, and boutique event favors crafted with consistent handcrafted quality.",
+      "price": "Volume Pricing",
+      "icon": "Package",
+      "category": "Bulk & Wholesale",
+      "features": [
+        "Discounted tiered volume pricing",
+        "Coordinated branding / custom label tags",
+        "Reliable milestone schedules & batch shipping",
+        "Dedicated order coordinator"
+      ],
+      "isActive": true,
+      "createdAt": "2026-10-08T17:31:43.283Z"
+    }
+  ],
+  "portfolio": [
+    {
+      "title": "car",
+      "slug": "car",
+      "description": "djjdjdslk;asdladsl;;lmd,m.d,sa",
+      "imageUrl": "/uploads/no_dam_1791528565300.webp",
+      "category": "Handcrafted Furniture",
+      "client": "basit",
+      "completionDate": "2020222",
+      "dimensions": "",
+      "materials": "",
+      "featured": true,
+      "published": true,
+      "id": 7,
+      "createdAt": "2026-10-09T06:49:44.388Z"
+    },
+    {
+      "id": 1,
+      "title": "Chunky Cable-Knit Wool Sweater",
+      "slug": "chunky-cable-knit-sweater",
+      "description": "An ultra-cozy, handcrafted cable-knit sweater made with 100% natural Peruvian Highland wool. Designed for warmth, relaxed modern drape, and heirloom longevity.",
+      "imageUrl": "https://images.unsplash.com/photo-1584992236310-6edddc08acff?auto=format&fit=crop&w=1200&q=80",
+      "category": "Handmade Clothing",
+      "client": "Bespoke Winter Commission",
+      "completionDate": "November 2025",
+      "dimensions": "Size M / Custom Measurements",
+      "materials": "100% Pure Highland Wool, Natural Oat Shade",
+      "featured": true,
+      "published": true,
+      "createdAt": "2026-10-08T17:43:54.294Z"
+    },
+    {
+      "id": 2,
+      "title": "Heirloom Pastel Baby Beanie & Booties Set",
+      "slug": "heirloom-pastel-baby-set",
+      "description": "A gentle, hypoallergenic crochet gift set including a ribbed pompom beanie, cozy snug booties, and a matching miniature swaddle blanket for newborn photography.",
+      "imageUrl": "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?auto=format&fit=crop&w=1200&q=80",
+      "category": "Baby & Kids",
+      "client": "Welcome Baby Eleanor Gift Set",
+      "completionDate": "January 2026",
+      "dimensions": "Newborn – 6 Months",
+      "materials": "Organic Bamboo Cotton Blend (Hypoallergenic)",
+      "featured": true,
+      "published": true,
+      "createdAt": "2026-10-08T17:43:54.294Z"
+    },
+    {
+      "id": 3,
+      "title": "Coordinated Winter Family Beanie Set",
+      "slug": "coordinated-winter-family-set",
+      "description": "A matching set of 4 custom beanies for two parents and two toddlers featuring ribbed turn-up brims, removable faux-fur poms, and customized engraved leather tags.",
+      "imageUrl": "https://images.unsplash.com/photo-1520903920243-00d872a2d1c9?auto=format&fit=crop&w=1200&q=80",
+      "category": "Family Sets",
+      "client": "The Harrison Family Holiday Photo Shoot",
+      "completionDate": "December 2025",
+      "dimensions": "2 Adult (Unisex), 2 Kids (Ages 3 & 5)",
+      "materials": "Merino Wool Blend, Vegan Leather Tags",
+      "featured": true,
+      "published": true,
+      "createdAt": "2026-10-08T17:43:54.294Z"
+    },
+    {
+      "id": 4,
+      "title": "Hand-Crocheted Textured Throw Blanket",
+      "slug": "hand-crocheted-textured-throw-blanket",
+      "description": "A generous textured waffle-stitch crochet blanket designed to add tactile warmth to any living room sofa or reading nook.",
+      "imageUrl": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?auto=format&fit=crop&w=1200&q=80",
+      "category": "Home Decor",
+      "client": "Modern Living Collection",
+      "completionDate": "February 2026",
+      "dimensions": "50\" W x 65\" L",
+      "materials": "Chunky Chenille & Organic Cotton",
+      "featured": true,
+      "published": true,
+      "createdAt": "2026-10-08T17:43:54.294Z"
+    },
+    {
+      "id": 5,
+      "title": "Personalized Monogrammed Baby Blanket",
+      "slug": "personalized-monogrammed-baby-blanket",
+      "description": "A delicate scalloped crochet blanket with custom hand-embroidered initials in subtle blush rose and ivory accents.",
+      "imageUrl": "https://images.unsplash.com/photo-1544816155-12df9643f363?auto=format&fit=crop&w=1200&q=80",
+      "category": "Gifts & Accessories",
+      "client": "Bespoke Baby Shower Order",
+      "completionDate": "March 2026",
+      "dimensions": "36\" x 42\"",
+      "materials": "Extra-fine Merino Wool, Silk Ribbon Detailing",
+      "featured": false,
+      "published": true,
+      "createdAt": "2026-10-08T17:43:54.294Z"
+    },
+    {
+      "id": 6,
+      "title": "Artisan Cable Infinity Scarf & Fingerless Mitts",
+      "slug": "artisan-cable-infinity-scarf-mitts",
+      "description": "A rich honey-mustard cable knit infinity loop scarf with matching fingerless texting gloves, knit with seamless hand construction.",
+      "imageUrl": "https://images.unsplash.com/photo-1588850561407-ed78c282e89b?auto=format&fit=crop&w=1200&q=80",
+      "category": "Handmade Clothing",
+      "client": "Autumn Boutique Capsule",
+      "completionDate": "October 2025",
+      "dimensions": "Scarf: 60\" circumference x 12\" width",
+      "materials": "Superwash Merino Wool & Alpaca Blend",
+      "featured": false,
+      "published": true,
+      "createdAt": "2026-10-08T17:43:54.294Z"
+    }
+  ],
+  "reviews": [
+    {
+      "customerName": "Abdul Basit",
+      "rating": 5,
+      "review": "Good looking products",
+      "role": "Rawalpindi",
+      "image": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&w=200&q=80",
+      "isApproved": true,
+      "isFeatured": false,
+      "id": 1,
+      "createdAt": "2026-10-09T06:39:57.915Z"
+    }
+  ],
+  "messages": [
+    {
+      "name": "Abdul basit",
+      "email": "aa@gmail.com",
+      "phone": "+923178360963",
+      "subject": "Custom Order Inquiry: Heirloom Pastel Baby Beanie & Booties Set",
+      "message": "hhhhhhhhhhhhhhhhhhh",
+      "id": 3,
+      "isRead": false,
+      "createdAt": "2026-10-09T06:40:56.980Z"
+    },
+    {
+      "id": 1,
+      "name": "Clara Hughes",
+      "email": "clara.hughes@gmail.com",
+      "phone": "+1 (416) 555-0199",
+      "subject": "Matching baby sweater and mother cardigan inquiry",
+      "message": "Hi N-Knitts! I saw your baby collection and was wondering if you could make a matching cardigan in size M and baby sweater for 6 months in a dusty rose or sage green color? Would love to know pricing and turnaround time!",
+      "isRead": false,
+      "createdAt": "2026-10-08T17:43:54.294Z"
+    },
+    {
+      "id": 2,
+      "name": "Rachel Green",
+      "email": "rachel@greendesign.co",
+      "phone": "+1 (647) 555-8910",
+      "subject": "Bulk order of 15 handmade knit beanies for bridal party",
+      "message": "Hello! We are having a winter mountain wedding in Banff and would love to commission 15 coordinated beanies with custom colors for our bridesmaids and groomsmen. When can we chat about details?",
+      "isRead": true,
+      "createdAt": "2026-10-08T17:43:54.294Z"
+    }
+  ]
+}
