@@ -432,7 +432,7 @@ export default function AdminPortfolioPage() {
                     className="w-full px-3.5 py-2 text-xs border border-stone-300 rounded-xl focus:outline-none focus:ring-2 focus:ring-amber-800/20 focus:border-amber-800"
                   >
                     <option value="Handmade Clothing">Handmade Clothing</option>
-                    <option value="Baby & Kids">Baby & Kids</option>
+                    {/* <option value="Baby & Kids">Baby & Kids</option> */}
                     <option value="Family Sets">Family Sets</option>
                     <option value="Home Decor">Home Decor</option>
                     <option value="Gifts & Accessories">Gifts & Accessories</option>

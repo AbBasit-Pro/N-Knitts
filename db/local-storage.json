@@ -7,7 +7,7 @@
     "address": "Toronto, Ontario, Canada",
     "operatingHours": "Monday – Friday: 10:00 AM – 6:00 PM | Saturday: 10:00 AM – 4:00 PM (By Appointment)",
     "aboutText": "We are passionate about turning simple yarn into beautiful, handmade creations. Our mission is to create unique, high-quality knitting and crochet pieces with care, creativity, and love. We believe every stitch tells a story, and our goal is to bring warmth, comfort, and joy to every customer through handmade craftsmanship.",
-    "updatedAt": "2026-10-08T17:43:54.293Z"
+    "updatedAt": "2026-10-22T10:06:25.970Z"
   },
   "socialLinks": [
     {
@@ -52,23 +52,6 @@
       ],
       "isActive": true,
       "createdAt": "2026-10-08T17:31:43.272Z"
-    },
-    {
-      "id": 2,
-      "title": "Personalized Gifts",
-      "slug": "personalized-gifts",
-      "description": "Heartwarming bespoke gifts made for birthdays, anniversaries, weddings, and holidays with custom names, initials, and themes.",
-      "price": "Starting at $35",
-      "icon": "Gift",
-      "category": "Gifts",
-      "features": [
-        "Personalized initials or embroidered names",
-        "Custom gift wrapping & note card available",
-        "Special seasonal & milestone themes",
-        "Quick turnaround on select gift items"
-      ],
-      "isActive": true,
-      "createdAt": "2026-10-08T17:31:43.283Z"
     },
     {
       "id": 3,
@@ -139,38 +122,52 @@
       "createdAt": "2026-10-08T17:31:43.283Z"
     },
     {
-      "id": 7,
-      "title": "Bulk Orders & Events",
-      "slug": "bulk-orders",
-      "description": "Wholesale packages, corporate gifting, bridal party bundles, and boutique event favors crafted with consistent handcrafted quality.",
-      "price": "Volume Pricing",
-      "icon": "Package",
-      "category": "Bulk & Wholesale",
+      "title": "abc",
+      "slug": "abc",
+      "description": "hkaSAJJASSAHGSHGHSagsgkjsa",
+      "price": "Starting at $45",
+      "icon": "Shirt",
+      "category": "Clothing",
       "features": [
-        "Discounted tiered volume pricing",
-        "Coordinated branding / custom label tags",
-        "Reliable milestone schedules & batch shipping",
-        "Dedicated order coordinator"
+        "Handmade with premium yarn",
+        "Custom measurements available",
+        "Gentle care guide included"
       ],
       "isActive": true,
-      "createdAt": "2026-10-08T17:31:43.283Z"
+      "id": 7,
+      "createdAt": "2026-10-25T14:22:06.025Z"
     }
   ],
   "portfolio": [
     {
-      "title": "car",
-      "slug": "car",
-      "description": "djjdjdslk;asdladsl;;lmd,m.d,sa",
-      "imageUrl": "/uploads/no_dam_1791528565300.webp",
+      "title": "abc",
+      "slug": "abc",
+      "description": "ahuashashksahkasjhjsa",
+      "imageUrl": "/uploads/backside-car-get-damaged-crash-accident-110214681_1792937869648.webp",
       "category": "Handcrafted Furniture",
-      "client": "basit",
-      "completionDate": "2020222",
+      "client": "",
+      "completionDate": "",
       "dimensions": "",
       "materials": "",
-      "featured": true,
+      "featured": false,
+      "published": true,
+      "id": 8,
+      "createdAt": "2026-10-25T14:17:59.924Z"
+    },
+    {
+      "title": "Women Tops",
+      "slug": "women-tops",
+      "description": "i am selling this product",
+      "imageUrl": "/uploads/WhatsApp_Image_2026-10-22_at_2_53_06_PM_1792662823057.jpeg",
+      "category": "Handcrafted Furniture",
+      "client": "",
+      "completionDate": "March 2026",
+      "dimensions": "",
+      "materials": "",
+      "featured": false,
       "published": true,
       "id": 7,
-      "createdAt": "2026-10-09T06:49:44.388Z"
+      "createdAt": "2026-10-22T09:54:31.018Z"
     },
     {
       "id": 1,
@@ -271,7 +268,7 @@
       "role": "Rawalpindi",
       "image": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&w=200&q=80",
       "isApproved": true,
-      "isFeatured": false,
+      "isFeatured": true,
       "id": 1,
       "createdAt": "2026-10-09T06:39:57.915Z"
     }

@@ -10,8 +10,7 @@ export default async function PortfolioPage() {
     "All",
     "Handmade Clothing",
     "Baby & Kids",
-    "Family Sets",
-    "Home Decor",
+     "Home Decor",
     "Gifts & Accessories",
   ];
 
